@@ -15,4 +15,26 @@ h2 {
   margin-bottom: 10px;
 }
 
+div {
+ margin-top: 0px;
 
+}
+
+h4{
+  max-width: 150px;
+  margin-top: 8px;
+  display: flex;
+}
+
+.genero{
+  display: flex;
+  justify-items: column;
+  align-items: flex-start;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+img{
+  width: 150px;
+
+}   
